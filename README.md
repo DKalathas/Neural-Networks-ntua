@@ -8,4 +8,8 @@ This repository hosts the lab projects of the Neural Networks course held by ECE
 
 - Lab 2: Unsupervised Learning - Recommendation System
 
+### Team members:
 
+Dimitris Kalathas, Dimitris Kalemis
+
+### The assignments language is greek.
