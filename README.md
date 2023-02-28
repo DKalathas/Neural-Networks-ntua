@@ -8,6 +8,8 @@ This repository hosts the lab projects of the Neural Networks course held by ECE
 
 - Lab 2: Unsupervised Learning - Recommendation System
 
+- Lab 3: Deep Learning - Image Captioning with Visual Attention
+
 ### Team members:
 
 Dimitris Kalathas, Dimitris Kalemis, Dimitris Mpakalis
