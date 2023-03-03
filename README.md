@@ -12,6 +12,6 @@ This repository hosts the lab projects of the Neural Networks course held by ECE
 
 ### Team members:
 
-Dimitris Kalathas, Dimitris Kalemis, Dimitris Mpakalis
+Dimitris Kalathas, Dimitris Kalemis, Dimitris Bakalis
 
 ### The assignments language is greek.
